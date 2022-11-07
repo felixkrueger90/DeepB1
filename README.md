@@ -41,9 +41,10 @@ Contents
     ProcessedData_loc_96x96x65_b1r_96x96x16_crossValidation.mat          44 data sets for network traning containg channel-wise B1+ maps and complex localizers
     ProcessedData_loc_96x96x65_b1r_96x96x16_testData.mat                 3 data sets for in vivo application containg channel-wise B1+ maps and complex localizers
     
-Dependencies
+References
 ------------
 [1] Krueger F, Aigner C, Hammernik K, Dietrich S, Lutz M, Menger J, Schaeffter T, Schmitter S. Rapid estimation of 2D relative B1+-maps from localizers in the human heart at 7T using deep learning. Magn. Reson. Med. https://doi.org/10.1002/mrm.29510.
+
 [2] Van de Moortele PF, Ugurbil K. Very Fast Multi Channel B1 Calibration at High Field in the Small Flip Angle Regime. In: Proceedings of the 17th Annual Meeting of ISMRM, Honolulu, USA: Abstract 0367; 2009.
 
 Dependencies
