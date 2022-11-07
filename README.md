@@ -43,6 +43,11 @@ Contents
     
 Dependencies
 ------------
+[1] Krueger F, Aigner C, Hammernik K, Dietrich S, Lutz M, Menger J, Schaeffter T, Schmitter S. Rapid estimation of 2D relative B1+-maps from localizers in the human heart at 7T using deep learning. Magn. Reson. Med. https://doi.org/10.1002/mrm.29510.
+[2] Van de Moortele PF, Ugurbil K. Very Fast Multi Channel B1 Calibration at High Field in the Small Flip Angle Regime. In: Proceedings of the 17th Annual Meeting of ISMRM, Honolulu, USA: Abstract 0367; 2009.
+
+Dependencies
+------------
 These routines were tested under MATLAB R2020a under Windows, but should also run under older versions.
 
 The data libraries for traning and in vivo application  containing channel-wise B1+ maps and complex localizers, as well as the network`s weights are available at https://doi.org/10.6084/m9.figshare.21268650.v1, https://doi.org/10.6084/m9.figshare.21268659.v1, and https://doi.org/10.6084/m9.figshare.21269115.v1.
