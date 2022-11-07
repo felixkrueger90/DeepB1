@@ -1,6 +1,6 @@
 # DeepB1
 
-This repository contains Python code forimplementing a neural network to estimate complex, channel-wise, relative 2D B1+-maps from a single gradient echo localizer to overcome long subject-specific pTx calibration times as described in [1]. MATLAB algorithms to process the data sets for network traing and subsequent pulse desing are also included. The data sets containing relative B1+ and localizer data of the human body at 7T and the neural network`s weights are available at:https://doi.org/10.6084/m9.figshare.21268650.v1, https://doi.org/10.6084/m9.figshare.21268659.v1, and https://doi.org/10.6084/m9.figshare.21269115.v1. The B1+ maps were computed as described in [2].
+This repository contains Python code for implementing a neural network to estimate complex, channel-wise, relative 2D B1+-maps from a single gradient echo localizer to overcome long subject-specific pTx calibration times as described in [1]. MATLAB algorithms to process the data sets for network traing and subsequent pulse desing are also included. The data sets containing relative B1+ and localizer data of the human body at 7T and the neural network`s weights are available at:https://doi.org/10.6084/m9.figshare.21268650.v1, https://doi.org/10.6084/m9.figshare.21268659.v1, and https://doi.org/10.6084/m9.figshare.21269115.v1. The B1+ maps were computed as described in [2].
 
 ##### Authors:
 - Felix Krüger                  (<felix.krueger@ptb.de>)
